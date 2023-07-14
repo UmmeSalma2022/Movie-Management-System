@@ -1,4 +1,4 @@
-#The Movie Management System 
+# Movie Management System 
 
 It is a comprehensive software application designed to efficiently organize and manage the vast collection of movies in a film library. This project employs a file structure-based approach to enhance data storage, retrieval, and manipulation operations, ensuring optimal performance and seamless user experience.The system leverages the power of file structures, including sequential and indexed files, to organize movie-related information such as titles, genres, release dates, directors, and actors. By utilizing these file structures, the system achieves efficient data organization, searchability, and ease of maintenance.
 
